@@ -1,3 +1,6 @@
 [submodule "vendor/premake-core"]
 	path = vendor/premake-core
 	url = https://github.com/premake/premake-core.git
+[submodule "vendor/Komut"]
+	path = vendor/Komut
+	url = https://github.com/Bylissss/Komut.git
